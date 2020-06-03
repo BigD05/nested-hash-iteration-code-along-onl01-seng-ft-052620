@@ -23,3 +23,4 @@ if person == "Fredddy Mercury "
 binding.pry 
 end 
 end
+end
